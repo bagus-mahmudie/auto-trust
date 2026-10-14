@@ -4,6 +4,10 @@ Auto Trust is a vehicle sales and rental catalog application built with Laravel.
 
 **Status:** Local development; a public demo is not yet available.
 
+## Preview
+
+[![Auto Trust — application preview](docs/screenshots/project-preview.png)](docs/screenshots/project-preview.png)
+
 ## Features
 
 - Car and motorcycle listings for sale or rent
